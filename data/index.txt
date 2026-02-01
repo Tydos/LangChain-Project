@@ -1,0 +1,7 @@
+01 Harry Potter and the Sorcerers Stone.txt
+02 Harry Potter and the Chamber of Secrets.txt
+03 Harry Potter and the Prisoner of Azkaban.txt
+04 Harry Potter and the Goblet of Fire.txt
+05 Harry Potter and the Order of the Phoenix.txt
+06 Harry Potter and the Half-Blood Prince.txt
+07 Harry Potter and the Deathly Hallows.txt
